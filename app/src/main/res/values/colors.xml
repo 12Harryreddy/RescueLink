@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="gray">#A0A0A0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="teal_700">#018786</color>
+    <color name="primary">#D32F2F</color>
+    <color name="primaryDark">#B71C1C</color>
+    <color name="primaryLight">#FF6659</color>
+    <color name="appBackground">#F5F5F5</color>
+    <color name="highlightRed">#C62828</color>
+    <color name="primaryRed">#D32F2F</color>
+    <color name="lightRedTransparent">#33FF5252</color>
+    <color name="errorRed">#D32F2F</color>
+</resources>
