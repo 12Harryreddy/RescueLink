@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">रेस्क्यूलिंक</string>
+    <string name="rescuelink">रेस्क्यूलिंक</string>
+    <string name="alerts">चेतावनी</string>
+    <string name="sos">एसओएस</string>
+    <string name="map">मानचित्र</string>
+    <string name="contacts">संपर्क</string>
+    <string name="settings">सेटिंग्स</string>
+    <string name="hello_blank_fragment">हैलो ब्लैंक फ्रैगमेंट</string>
+    <string name="first_fragment_label">प्रथम खंड</string>
+    <string name="second_fragment_label">द्वितीय खंड</string>
+    <string name="next">आगे</string>
+    <string name="previous">पिछला</string>
+
+    <string name="lorem_ipsum">
+        यह एक डेमो पैराग्राफ है जो केवल टेक्स्ट का स्थान दर्शाने के लिए प्रयोग किया गया है। इसमें कोई वास्तविक जानकारी नहीं है।
+        यह आपको वास्तविक सामग्री की लंबाई और शैली का अनुमान लगाने में मदद करेगा। कृपया इसे अपने अनुसार बदलें।
+    </string>
+
+    <string name="enter_contact_number">संपर्क नंबर दर्ज करें</string>
+    <string name="add_contact">संपर्क जोड़ें</string>
+    <string name="contacts1">संपर्क:</string>
+    <string name="emergency_sos">आपातकालीन एसओएस</string>
+    <string name="send_sos_alert">🚨 एसओएस अलर्ट भेजें</string>
+    <string name="select_language">भाषा चुनें</string>
+    <string name="save">सहेजें</string>
+    <string name="ongoing">चल रहा है</string>
+    <string name="_2_hours_ago">2 घंटे पहले</string>
+    <string name="stay_indoors_evacuation_in_zone_2_follow_local_authority_updates">
+        घर के अंदर रहें। ज़ोन 2 में निकासी जारी है। स्थानीय प्राधिकरण की जानकारी का पालन करें।
+    </string>
+    <string name="flood_in_assam">असम में बाढ़</string>
+    <string name="delete_contact">संपर्क हटाएं</string>
+    <string name="john_doe">जॉन डो</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/abril_fatface</item>
+        <item>@font/goblin_one</item>
+        <item>@font/krona_one</item>
+        <item>@font/lexend_bold</item>
+        <item>@font/monoton</item>
+        <item>@font/sora_extrabold</item>
+        <item>@font/sora_medium</item>
+    </array>
+</resources>
